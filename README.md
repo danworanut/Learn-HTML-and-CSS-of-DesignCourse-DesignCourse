@@ -1,5 +1,5 @@
 # Kitty Food
-Kitty Food comes from studying CSS and HTML from the YouTube channel **DesignCourse**.
+Kitty Food comes from studying CSS and HTML from the YouTube channel **[DesignCourse](https://youtu.be/MBlkKE0GYGg?si=Op68OFkoD6uQWboV)**.
 
 
 # Demo
